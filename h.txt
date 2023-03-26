@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 I have editing here
-and one more
+and one morej
+=======
+I have editing here
+and one morej
+>>>>>>> 0b3947d0e1df773337f46039b3a2eb6e27ee861c
